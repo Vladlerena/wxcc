@@ -1,6 +1,6 @@
 
 <p align="center">
-![Network diagram](images/banner inicial.png)
+![](images/banner inicial.png)
 
 **Latam Training – Lab Guide**
 
