@@ -66,3 +66,8 @@ This scenario illustrates how a Webex Contact Center organization can effectivel
 ## Network Diagram
 
 ![Network diagram](images/network Picture1.png)
+
+## Task 1: Webex Contact Center Basic Configuration  
+Webex Contact Center  Basic Configuration include the configuration of key activities include assigning licenses to users, setting up multimedia profiles for efficient channel management, defining skill-based routing with skill definitions and profiles, and customizing desktop layouts for agent and supervisor interfaces. Additionally, teams are organized based on skills and sites, and user synchronization ensures accurate roles and permissions across systems.
+
+
