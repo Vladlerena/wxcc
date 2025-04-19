@@ -25,6 +25,6 @@ These objectives cover the key skills and knowledge areas you'll develop through
 
 Imagine a mid-sized customer service organization, "CollabMCR Technology Corporation" dedicated to providing exceptional customer support across multiple channels. They have recently adopted Webex Contact Center to enhance their customer interactions and streamline operations.
 
-[Day 1](/day1)
+[Day 1](../day1)
 
 
