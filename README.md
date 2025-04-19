@@ -62,3 +62,5 @@ Before fully implementing these features, CollabMCR Technology Corporation condu
 
 This scenario illustrates how a Webex Contact Center organization can effectively integrate and utilize various features to enhance their customer service operations and deliver a seamless experience across multiple communication channels.
 
+## Network Diagram
+
