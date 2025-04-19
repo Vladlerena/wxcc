@@ -1,11 +1,13 @@
-**Webex Contact Center**
+
+<p align="center">
+![Network diagram](images/banner inicial.png)
 
 **Latam Training – Lab Guide**
 
-**Jose Linero – Senior Collaboration Technical Solutions Architect – CCIE # 24857  
-Vladimiro Lerena – Collaboration Technical Solutions Architect – CCIE # 56353**
-
-# Learning Objectives
+**Jose Linero – Senior Collaboration Technical Solutions Architect – CCIE # 24857**  
+**Vladimiro Lerena – Collaboration Technical Solutions Architect – CCIE # 56353**
+</p>
+## Learning Objectives
 
 Upon completion of this lab, you will be able to:
 
