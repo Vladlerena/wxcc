@@ -64,3 +64,4 @@ This scenario illustrates how a Webex Contact Center organization can effectivel
 
 ## Network Diagram
 
+![Network diagram](images/network Picture1.png)
